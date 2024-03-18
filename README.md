@@ -1,1 +1,1 @@
-devops resdme
+readme for web stack debugging 1
